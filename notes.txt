@@ -1,0 +1,5 @@
+Динамический импорт из модуля в Node.js
+
+let {default: sum2} = await import("./src/js/basic.js")
+
+ let { getHealthStatus: ghs } = await import("./src/js/basic.js")

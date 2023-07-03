@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oa94egetb7kb2119?svg=true)](https://ci.appveyor.com/project/dzyabtest/unit-test-func)
